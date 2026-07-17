@@ -1,0 +1,39 @@
+{
+    "metadata": {
+        "pipeline_run_timestamp": "2026-07-17T10:05:27.629779",
+        "total_records_analyzed": 211218,
+        "status": "SUCCESS"
+    },
+    "metrics_by_regime": {
+        "Extreme Fear": {
+            "total_trades": 21400,
+            "win_rate": 0.7622,
+            "avg_pnl_usd": 34.54,
+            "avg_position_size_usd": 5349.73
+        },
+        "Extreme Greed": {
+            "total_trades": 39992,
+            "win_rate": 0.8917,
+            "avg_pnl_usd": 67.89,
+            "avg_position_size_usd": 3112.25
+        },
+        "Fear": {
+            "total_trades": 61837,
+            "win_rate": 0.8729,
+            "avg_pnl_usd": 54.29,
+            "avg_position_size_usd": 7816.11
+        },
+        "Greed": {
+            "total_trades": 50303,
+            "win_rate": 0.7689,
+            "avg_pnl_usd": 42.74,
+            "avg_position_size_usd": 5736.88
+        },
+        "Neutral": {
+            "total_trades": 37686,
+            "win_rate": 0.8239,
+            "avg_pnl_usd": 34.31,
+            "avg_position_size_usd": 4782.73
+        }
+    }
+}
